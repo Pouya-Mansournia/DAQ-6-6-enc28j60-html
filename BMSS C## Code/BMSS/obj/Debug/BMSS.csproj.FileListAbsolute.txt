@@ -1,0 +1,45 @@
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\BMSS\BMSS\bin\Debug\BMSS.exe
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\BMSS\BMSS\bin\Debug\BMSS.pdb
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.Form1.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.Properties.Resources.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.csproj.GenerateResource.Cache
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.exe
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.pdb
+E:\Old Windows\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.exe
+E:\Old Windows\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.pdb
+E:\Old Windows\Documents\Visual Studio 2013\Projects\BMSS\BMSS\bin\Debug\BMSS.exe
+E:\Old Windows\Documents\Visual Studio 2013\Projects\BMSS\BMSS\bin\Debug\BMSS.pdb
+E:\Old Windows\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.csprojResolveAssemblyReference.cache
+E:\Old Windows\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.Form1.resources
+E:\Old Windows\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.Properties.Resources.resources
+E:\Old Windows\Documents\Visual Studio 2013\Projects\BMSS\BMSS\obj\Debug\BMSS.csproj.GenerateResource.Cache
+H:\BMSS\BMSS\obj\Debug\BMSS.exe
+H:\BMSS\BMSS\obj\Debug\BMSS.pdb
+I:\BMSS\BMSS\obj\Debug\BMSS.exe
+I:\BMSS\BMSS\obj\Debug\BMSS.pdb
+I:\BMSS\BMSS\bin\Debug\BMSS.exe
+I:\BMSS\BMSS\bin\Debug\BMSS.pdb
+I:\BMSS\BMSS\obj\Debug\BMSS.csprojResolveAssemblyReference.cache
+I:\BMSS\BMSS\obj\Debug\BMSS.Form1.resources
+I:\BMSS\BMSS\obj\Debug\BMSS.Properties.Resources.resources
+I:\BMSS\BMSS\obj\Debug\BMSS.csproj.GenerateResource.Cache
+C:\Users\Pouya\Desktop\BMSS\BMSS\obj\Debug\BMSS.exe
+C:\Users\Pouya\Desktop\BMSS\BMSS\obj\Debug\BMSS.pdb
+E:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.exe
+E:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.pdb
+E:\Electronic Projects\BMS PRJ\BMSS\BMSS\bin\Debug\BMSS.exe
+E:\Electronic Projects\BMS PRJ\BMSS\BMSS\bin\Debug\BMSS.pdb
+E:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.csprojResolveAssemblyReference.cache
+E:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.Form1.resources
+E:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.Properties.Resources.resources
+E:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.csproj.GenerateResource.Cache
+D:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.exe
+D:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.pdb
+D:\Electronic Projects\BMS PRJ\BMSS\BMSS\bin\Debug\BMSS.exe
+D:\Electronic Projects\BMS PRJ\BMSS\BMSS\bin\Debug\BMSS.pdb
+D:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.csprojResolveAssemblyReference.cache
+D:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.Form1.resources
+D:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.Properties.Resources.resources
+D:\Electronic Projects\BMS PRJ\BMSS\BMSS\obj\Debug\BMSS.csproj.GenerateResource.Cache
+D:\Electronic Projects\BMS PRJ_SRC\BMSS C## Code\BMSS\obj\Debug\BMSS.exe
+D:\Electronic Projects\BMS PRJ_SRC\BMSS C## Code\BMSS\obj\Debug\BMSS.pdb
